@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400italic);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
 body{
 	background-color: rgb(244, 244, 244);
 	background-size: cover;
@@ -21,6 +24,7 @@ li a{
 	margin-left: 20%;
 	margin-top: 5%;
 	font-size: 30px;
+	font-family: 'Lora', serif;
 }
 hr{
 	margin-top: 5%;
@@ -44,10 +48,25 @@ footer{
 .rosa{
 	color: violet;
 }
-.texto1{
-	margin-top: 10%;
-	font-size: 19px;
-}
 p{
 	margin-top: 5px;
+}
+.textojus{
+	text-align: justify;
+	font-family: 'Lora', serif;
+	margin-top: 10%;
+}
+.textotitu{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 30px;
+
+}
+.textotu{
+	text-align: center;
+	font-family: 'Lora', serif;
+	margin-bottom: 10%;	
+}
+form{
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
