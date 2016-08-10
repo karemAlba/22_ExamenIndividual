@@ -64,9 +64,16 @@ p{
 .textotu{
 	text-align: center;
 	font-family: 'Lora', serif;
-	margin-bottom: 10%;	
+	margin-top: 5%;	
 }
 form{
 	margin-top: 5%;
 	margin-bottom: 5%;
+}
+.grids{
+	margin-left: 30%;
+}
+.logot{
+	width: 20%;
+
 }

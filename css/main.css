@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Passion+One:700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400italic);
+
 
 .imagen{
 	width: 100%;
@@ -47,12 +47,12 @@
 	cursor: pointer; 
 }
 .twitter{
-	background-color: grey;
+	background-color: blue;
 	color: white;
-	border-radius: 15px;
-	width: 15%;
-	height: 40px;
+	width: 20%;
+	height: 30px;
 	font-size: 15px;
+	margin-bottom: 3%;
 }
 .gris{
 	color: #D7DBDD;
@@ -80,4 +80,20 @@
 	font-family: 'Passion One', cursive;
 	font-size: 30px;
 	margin-bottom: 10%;
+}
+.cajatexto{
+	background-color: transparent;
+	height: 10%;
+	background-image: url("../img/iconos/avatar.png");
+	background-position: left center;
+}
+.botonn{
+	margin-top: 3%;
+	background-color: black;
+	color: white;
+	width: 15%;
+	height: 20px;
+	font-size: 15px;
+	cursor: pointer; 
+	font-size: 11px;
 }
